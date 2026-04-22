@@ -1,0 +1,90 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.5.2 Chrome/142.0.7444.265 Electron/39.6.1 Safari/537.36" version="29.5.2">
+  <diagram name="Page-1" id="cZ9aV7h7I2M3yn83EhuN">
+    <mxGraphModel dx="2422" dy="1203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nSsUNtingkGSDttdRZAb-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;LIVE VOTING&lt;/font&gt;" vertex="1">
+          <mxGeometry height="150" width="450" x="230" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nSsUNtingkGSDttdRZAb-20" edge="1" parent="1" source="nSsUNtingkGSDttdRZAb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nSsUNtingkGSDttdRZAb-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nSsUNtingkGSDttdRZAb-2" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.user_group" value="" vertex="1">
+          <mxGeometry height="61" width="79" x="120" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="nSsUNtingkGSDttdRZAb-15" edge="1" parent="1" source="nSsUNtingkGSDttdRZAb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nSsUNtingkGSDttdRZAb-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nSsUNtingkGSDttdRZAb-3" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.network_load_balancer;" value="" vertex="1">
+          <mxGeometry height="78" width="78" x="347" y="403" as="geometry" />
+        </mxCell>
+        <mxCell id="nSsUNtingkGSDttdRZAb-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="USERS" vertex="1">
+          <mxGeometry height="30" width="60" x="129.5" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="nSsUNtingkGSDttdRZAb-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="LOAD BALACNER AND API GAETWAY" vertex="1">
+          <mxGeometry height="30" width="160" x="300" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="nSsUNtingkGSDttdRZAb-7" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" value="" vertex="1">
+          <mxGeometry height="100" width="75" x="1110" y="381" as="geometry" />
+        </mxCell>
+        <mxCell id="nSsUNtingkGSDttdRZAb-11" edge="1" parent="1" source="nSsUNtingkGSDttdRZAb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="930" y="301" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nSsUNtingkGSDttdRZAb-8" parent="1" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.kinesis_video_streams;" value="" vertex="1">
+          <mxGeometry height="78" width="78" x="760" y="262" as="geometry" />
+        </mxCell>
+        <mxCell id="nSsUNtingkGSDttdRZAb-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VOTE SERVICE" vertex="1">
+          <mxGeometry height="30" width="150" x="724" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="nSsUNtingkGSDttdRZAb-10" edge="1" parent="1" source="nSsUNtingkGSDttdRZAb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="nSsUNtingkGSDttdRZAb-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nSsUNtingkGSDttdRZAb-12" parent="1" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="QUEUE&lt;br&gt;(can use rabbit mq)" vertex="1">
+          <mxGeometry height="50" width="77" x="940" y="276" as="geometry" />
+        </mxCell>
+        <mxCell id="nSsUNtingkGSDttdRZAb-13" edge="1" parent="1" source="nSsUNtingkGSDttdRZAb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.591;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" target="nSsUNtingkGSDttdRZAb-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nSsUNtingkGSDttdRZAb-18" edge="1" parent="1" source="nSsUNtingkGSDttdRZAb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nSsUNtingkGSDttdRZAb-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nSsUNtingkGSDttdRZAb-14" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;dashed=0;" value="RESULT" vertex="1">
+          <mxGeometry height="50" width="100" x="760" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="nSsUNtingkGSDttdRZAb-17" parent="1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" value="" vertex="1">
+          <mxGeometry height="75.6" width="90" x="1275" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="nSsUNtingkGSDttdRZAb-19" edge="1" parent="1" source="nSsUNtingkGSDttdRZAb-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.493;entryY=0.026;entryDx=0;entryDy=0;entryPerimeter=0;" target="nSsUNtingkGSDttdRZAb-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nSsUNtingkGSDttdRZAb-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RESULT SERVICE&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="160" x="730" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="nSsUNtingkGSDttdRZAb-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PESSIMISTIC LOCKING PER REQUEST" vertex="1">
+          <mxGeometry height="30" width="230" x="930" y="246" as="geometry" />
+        </mxCell>
+        <mxCell id="nSsUNtingkGSDttdRZAb-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CACHE HIT FIRST" vertex="1">
+          <mxGeometry height="30" width="60" x="1100" y="565.6" as="geometry" />
+        </mxCell>
+        <mxCell id="nSsUNtingkGSDttdRZAb-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="UPDATE CACHE" vertex="1">
+          <mxGeometry height="30" width="60" x="1220" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="nSsUNtingkGSDttdRZAb-26" edge="1" parent="1" source="nSsUNtingkGSDttdRZAb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.009;entryY=0.556;entryDx=0;entryDy=0;entryPerimeter=0;" target="nSsUNtingkGSDttdRZAb-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="440" />
+              <mxPoint x="985" y="440" />
+              <mxPoint x="985" y="437" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nSsUNtingkGSDttdRZAb-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="IF CACHE MISS" vertex="1">
+          <mxGeometry height="30" width="60" x="980" y="400" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
